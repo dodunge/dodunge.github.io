@@ -5,9 +5,9 @@
 
 <h2>Demo</h2>
 
-Check the theme in action [Demo](https://flexton.netlify.com/)
+Check the theme in action [Demo](https://dodunge.github.io/)
 
-![Page preview](https://github.com/artemsheludko/flexton/blob/master/images/preview.png?raw=true)
+![Page preview](https://dodunge.github.io/images/preview.png?raw=true)
 
 <h2>Features</h2>
 
